@@ -1,7 +1,3 @@
-Here is a **README** for the Packet Tracer lab based on the provided topology and instructions:
-
----
-
 # Packet Tracer Lab: EIGRP Configuration and Unequal-Cost Load Balancing
 
 This lab focuses on configuring Enhanced Interior Gateway Routing Protocol (EIGRP) for a network of routers. You will also configure unequal-cost load balancing and set appropriate passive interfaces.
@@ -13,7 +9,7 @@ This lab focuses on configuring Enhanced Interior Gateway Routing Protocol (EIGR
 4. Set up unequal-cost load balancing on **R1** for traffic directed to the 192.168.4.0/24 network.
 
 ---
-<img src=''>
+<img src="https://github.com/ro-drick/EIGRP-Configuration/blob/main/rip-eigrp.PNG">
 ## **Step-by-Step Instructions**
 
 ### 1. Configure Hostnames and IP Addresses on Each Device
