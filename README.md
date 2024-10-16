@@ -10,6 +10,7 @@ This lab focuses on configuring Enhanced Interior Gateway Routing Protocol (EIGR
 
 ---
 <img src="https://github.com/ro-drick/EIGRP-Configuration/blob/main/rip-eigrp.PNG">
+
 ## **Step-by-Step Instructions**
 
 ### 1. Configure Hostnames and IP Addresses on Each Device
